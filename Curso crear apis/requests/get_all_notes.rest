@@ -1,0 +1,2 @@
+//con estas funciones puedes hacer perticiones rest desde visual code, sin necesidad de usar postman, debes instalar la extension de rast cliente en visual code
+GET http://localhost:3002/api/notes/
